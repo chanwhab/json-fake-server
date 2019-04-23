@@ -1,0 +1,10 @@
+{
+    "alex": {
+        "item": "Alex",
+        "replacement": "<a href='/users/alex/'>@alex</a>"
+    },
+    "john": {
+        "item": "John",
+        "replacement": "<a href='/users/john/'>@john</a>"
+    }
+}
